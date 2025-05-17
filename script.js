@@ -247,7 +247,7 @@ const zoomImages = [
 ];
 const groupImages = [
   { url: 'Group1.jpg', caption: 'Squad Vibes' },
-  { url: 'group2.jpg', caption: 'Memories Forever' }
+  { url: 'Group2.jpg', caption: 'Memories Forever' }
 ];
 
 const gallery = document.getElementById('gallery');
